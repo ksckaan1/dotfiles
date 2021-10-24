@@ -2,12 +2,12 @@
 
 1. Fish Shell Configs
 
-![./screenshots/fish.png](Fish Shell Screenshot)
+![Fish Shell Screenshot](./screenshots/fish.png)
 
 2. NeoVim Configs
 
-![./screenshots/neovim.png](NeoVim Screenshot)
+![NeoVim Screenshot](./screenshots/neovim.png)
 
 3. Qtile Configs
 
-![.screenshots/qtile.png](Qtile Screenshot)
+![Qtile Screenshot](./screenshots/qtile.png)
