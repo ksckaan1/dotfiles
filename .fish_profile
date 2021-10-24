@@ -1,0 +1,25 @@
+###################################
+#                                 #
+#             ALIASES             #
+#                                 #
+###################################
+
+# NeoVim
+alias nv="nvim"
+
+# Reload Shell
+alias reload="omf reload"
+
+# Learn Your IP address
+alias ipe="curl ipinfo.io/ip"
+
+
+
+###################################
+#                                 #
+#             PATHS               #
+#                                 #
+###################################
+
+# GOBIN
+set -p PATH ~/go/bin

@@ -1,0 +1,17 @@
+snippet pkgm "startup go file"
+	package main
+	func main(){
+		$1
+	}
+snippet fp "fmt.Println()"
+	fmt.Println($1)
+snippet ff "fmt.Printf()"
+	fmt.Printf($1)
+snippet per "Print err"
+	if err != nil {
+		fmt.Println(err)
+	}
+snippet paner "Panic err"
+	if err != nil {
+		panic(err)
+	}
